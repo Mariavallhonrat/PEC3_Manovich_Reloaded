@@ -41,7 +41,7 @@ La hibridación en AutoCAD está cambiando la forma en que se desarrollan y comu
 
 ### Referencias
 - Manovich, Lev. (2013). **El Software toma el mando.** Barcelona: Editorial UOC.
-- NEW GAME: MINECRAFT EARTH (Minecraft.net) (17 de mayo de 2019). Disponible en: 
+- NEW GAME: MINECRAFT EARTH (Minecraft.net) (17 de mayo de 2019). Disponible en:
 (https://www.minecraft.net/en-us/article/new-game--minecraft-earth) (Consultado: mayo de 2023)
 - Minecraft Earth (Wikipedia) (18 de abril de 2023). Disponible en: 
 (https://en.wikipedia.org/wiki/Minecraft_Earth) (Consultado: mayo de 2023)
@@ -56,4 +56,4 @@ La hibridación en AutoCAD está cambiando la forma en que se desarrollan y comu
 - ¿Qué es AutoCad y paraqué sirve? (Arcux). Disponible en:
 (https://arcux.net/blog/que-es-autocad-y-para-que-sirve/) (Consultado: mayo de 2023)
 
-#### Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY It News
+##### Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY It News
