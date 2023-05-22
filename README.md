@@ -40,6 +40,18 @@ En conclusión, AutoCAD es un ejemplo elocuente de híbrido, como señala Lev Ma
 La hibridación en AutoCAD está cambiando la forma en que se desarrollan y comunican los diseños en las disciplinas de arquitectura, ingeniería y construcción. Esto amplía las posibilidades creativas y aumenta la eficiencia y precisión del proceso de diseño. Sin embargo, también es importante considerar los desafíos y las implicaciones del empaquetado en la implementación del software.
 
 ### Referencias
-- Manovich, Lev. (2013). **El Software toma el mando.** 
-  Barcelona: Editorial UOC.
-- 
+- Manovich, Lev. (2013). **El Software toma el mando.** Barcelona: Editorial UOC.
+- NEW GAME: MINECRAFT EARTH (Minecraft.net) (17 de mayo de 2019). Disponible en: (https://www.minecraft.net/en-us/article/new-game--minecraft-earth) (Consultado: mayo de 2023)
+- Minecraft Earth (Wikipedia) (18 de abril de 2023). Disponible en: (https://en.wikipedia.org/wiki/Minecraft_Earth) (Consultado: mayo de 2023)
+- Minecraft Earth Wiki (Minecraft Earth wikik). Disponible en:
+(https://minecraft.fandom.com/wiki/Minecraft_Earth) (Consultado: mayo de 2023)
+- AutoDesk AutoCad (AutoDesk). Disponible en:
+(https://www.google.com/aclksa=l&ai=DChcSEwjl5siu24j_AhWag9UKHa_bBWgYABAAGgJ3cw&sig=AOD64_0fxkRGJg6M1bfDgMN6eg2LlGfuRA&q&adurl&ved=2ahUKEwje-8Ku24j_AhXgVqQEHZQDDl0Q0Qx6BAgIEAE) (Consultado: mayo de 2023)
+- ¿Qué es AutoCad? (3DNatives) (8 de junio de 2022). Disponible en:
+(https://www.3dnatives.com/es/autocad-cuales-caracteristicas-del-software-020420202/#!) (Consultado: mayo de 2023)
+- AutoCad (Wikipedia) (21 de mayo de 2023). Disponible en:
+(https://es.wikipedia.org/wiki/AutoCAD) (Cosultado: mayo de 2023)
+- ¿Qué es AutoCad y paraqué sirve? (Arcux). Disponible en:
+(https://arcux.net/blog/que-es-autocad-y-para-que-sirve/) (Consultado: mayo de 2023)
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY It News
