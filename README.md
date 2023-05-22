@@ -1,4 +1,4 @@
-# PEC3_Manovich_Reloaded
+# PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación.
 ### Recurso de aprendizaje de Cultura Digital
 Autora: Maria Vallhonrat Garcia-Valdecasas
 Fecha: 22/05/2023
